@@ -19,7 +19,7 @@ const siteConfig = {
   title: 'tipsi-stripe',
   tagline: 'Stripe support for React-Native',
   url: 'https://tipsi.github.io',
-  baseUrl: '/tipsi-stripe/',
+  baseUrl: '/',
   projectName: 'tipsi-stripe',
   headerLinks: [
     { doc: 'index', label: 'Docs' },
